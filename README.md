@@ -42,7 +42,3 @@ Built a specialized Saudi Arabic ASR system fine-tuned on medical domain vocabul
 - Zero errors on specialized Saudi Arabic medical terminology after fine-tuning
 - Platform deployed and operational in clinical settings with real-time performance
 - Secured **$425K in seed funding** following MVP delivery
-
----
-
-**Built by [DiverseCity](https://diversecity.dev)**
